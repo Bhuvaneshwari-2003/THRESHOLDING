@@ -9,19 +9,19 @@ To segment the image using global thresholding, adaptive thresholding and Otsu's
 ## Algorithm
 
 ### Step1:
-<br>
+Start the Program
 
 ### Step2:
-<br>
+
 
 ### Step3:
-<br>
+
 
 ### Step4:
-<br>
+
 
 ### Step5:
-<br>
+
 
 ## Program
 
@@ -62,32 +62,16 @@ To segment the image using global thresholding, adaptive thresholding and Otsu's
 ## Output
 
 ### Original Image
-<br>
-<br>
-<br>
-<br>
-<br>
+
 
 ### Global Thresholding
-<br>
-<br>
-<br>
-<br>
-<br>
+
 
 ### Adaptive Thresholding
-<br>
-<br>
-<br>
-<br>
-<br>
+
 
 ### Optimum Global Thesholding using Otsu's Method
-<br>
-<br>
-<br>
-<br>
-<br>
+
 
 
 ## Result
