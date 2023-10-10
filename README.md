@@ -27,7 +27,7 @@ Otsu's method to segment the image.
 End the program.
 
 ## Program
-```
+``
 # Load the necessary packages
 import cv2
 import numpy as np
